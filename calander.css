@@ -1,0 +1,192 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* background-color: #fff; */
+    background-image: url(images/324218-The-Best-And-Most-Beautiful-Things-In-The-World.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.one {
+    width: 400px;
+    height: 320px;
+    /* justify-content: space-between;  */
+    /* background-color: #ccc; */
+    text-align: center;
+    background-image: ;
+    border: 1px solid;
+    /* justify-content: space-around; */
+    margin: 5px;
+    color: aqua;
+    
+    
+}
+
+.two {
+    width: 400px;
+    height: 320px;
+    /* background-color: #ccc; */
+    text-align: center;
+    background-image: ;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    margin: 5px;
+    color: darkviolet;
+    border: 1px solid;
+    
+}
+
+.three {
+    width: 400px;
+    height: 320px;
+    /* background-color: #ccc; */
+    text-align: center;
+    background-image: ;
+    justify-content: space-around;
+    margin: 5px;
+    color: aqua;
+    border: 1px solid;
+}
+
+.four {
+    width: 400px;
+    height: 320px;
+    /* background-color: #ccc; */
+    text-align: center;
+    background-image: ;
+    justify-content: space-around;
+    margin: 5px;
+    color: aqua;
+    border: 1px solid;
+}
+
+.five {
+    width: 400px;
+    height: 320px;
+    /* background-color: #ccc; */
+    text-align: center;
+    background-image: ;
+    justify-content: space-around;
+    margin: 5px;
+    color: darkviolet;
+    border: 1px solid;
+}
+
+
+.six {
+    width: 400px;
+    height: 320px;
+    /* background-color: #ccc; */
+    text-align: center;
+    background-image: ;
+    justify-content: space-around;
+    margin: 5px;
+    color: darkviolet;
+    border: 1px solid;
+}
+
+
+.seven {
+    width: 400px;
+    height: 320px;
+    /* background-color: #ccc; */
+    text-align: center;
+    background-image: ;
+    justify-content: space-around;
+    margin: 5px;
+    color: aqua;
+    border: 1px solid;
+}
+
+
+.eight {
+    width: 400px;
+    height: 320px;
+    /* background-color: #ccc; */
+    text-align: center;
+    justify-content: space-between;
+    margin: 5px;
+    color: aqua;
+    border: 1px solid;
+}
+
+.nine {
+    width: 400px;
+    height: 320px;
+    /* background-color: #ccc; */
+    text-align: center;
+    background-image: ;
+    justify-content: space-around;
+    margin: 5px;
+    color: aqua;
+    border: 1px solid;
+}
+
+
+.ten {
+    width: 400px;
+    height: 320px;
+    /* background-color: #ccc; */
+    text-align: center;
+    background-image: ;
+    justify-content: space-around;
+    margin: 5px;
+    color: aqua;
+    border: 1px solid;
+}
+
+.eleven {
+    width: 400px;
+    height: 320px;
+    /* background-color: #ccc; */
+    text-align: center;
+    background-image: ;
+    justify-content: space-around;
+    margin: 5px;
+    color: aqua;
+    border: 1px solid;
+
+}
+
+.twelve {
+    width: 400px;
+    height: 320px;
+    /* background-color: #ccc; */
+    text-align: center;
+    background-image: ;
+    justify-content: space-around;
+    margin: 5px;
+    color: aqua;
+    border: 1px solid;
+}
+
+.week-days {
+    font-size: small;
+    display: flex;
+    justify-content: space-between;
+    /* text-align: center; */
+    grid-area: days;
+    /* background-color: #fff; */
+    /* border: 5px solid #ccc; */
+    justify-self: center;
+}
+
+.dates {
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* font-size: smaller; */
+    /* flex: 1; */
+    /* text-align: center; */
+    display: grid;
+    grid-template-columns: repeat(7, 1fr); /* 7 columns for each day of the week */
+    grid-template-rows: repeat(6, 1fr); /* 6 rows for each week */
+    gap: 0px; /*spacing between date cells*/
+     
+}
+
+/* /* .button {
+    color: royalblue;
+    background-color: black; 
+} */

@@ -4,9 +4,10 @@
     /* justify-content: space-around; */
     /* justify-content: space-between; */
     /* background-color: #fff; */
-    background-image: url(./324218-The-Best-And-Most-Beautiful-Things-In-The-World.jpg);
+    background-image: linear-gradient(rgba(25, 0, 255, 0.644), rgba(0, 0, 255, 0.877)), url(./bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    color: #fff;
 
 }
 .one {
@@ -15,11 +16,9 @@
     /* justify-content: space-between;  */
     /* background-color: #ccc; */
     text-align: center;
-    background-image: ;
     border: 1px solid;
     /* justify-content: space-around; */
     margin: 5px;
-    color: aqua;
     
     
 }
@@ -29,11 +28,9 @@
     height: 320px;
     /* background-color: #ccc; */
     text-align: center;
-    background-image: ;
     /* justify-content: space-between; */
     justify-content: space-around;
     margin: 5px;
-    color: darkviolet;
     border: 1px solid;
     
 }
@@ -43,10 +40,8 @@
     height: 320px;
     /* background-color: #ccc; */
     text-align: center;
-    background-image: ;
     justify-content: space-around;
     margin: 5px;
-    color: aqua;
     border: 1px solid;
 }
 
@@ -55,10 +50,8 @@
     height: 320px;
     /* background-color: #ccc; */
     text-align: center;
-    background-image: ;
     justify-content: space-around;
     margin: 5px;
-    color: aqua;
     border: 1px solid;
 }
 
@@ -67,10 +60,8 @@
     height: 320px;
     /* background-color: #ccc; */
     text-align: center;
-    background-image: ;
     justify-content: space-around;
     margin: 5px;
-    color: darkviolet;
     border: 1px solid;
 }
 
@@ -80,10 +71,8 @@
     height: 320px;
     /* background-color: #ccc; */
     text-align: center;
-    background-image: ;
     justify-content: space-around;
     margin: 5px;
-    color: darkviolet;
     border: 1px solid;
 }
 
@@ -93,10 +82,8 @@
     height: 320px;
     /* background-color: #ccc; */
     text-align: center;
-    background-image: ;
     justify-content: space-around;
     margin: 5px;
-    color: aqua;
     border: 1px solid;
 }
 
@@ -108,7 +95,6 @@
     text-align: center;
     justify-content: space-between;
     margin: 5px;
-    color: aqua;
     border: 1px solid;
 }
 
@@ -117,10 +103,8 @@
     height: 320px;
     /* background-color: #ccc; */
     text-align: center;
-    background-image: ;
     justify-content: space-around;
     margin: 5px;
-    color: aqua;
     border: 1px solid;
 }
 
@@ -130,10 +114,8 @@
     height: 320px;
     /* background-color: #ccc; */
     text-align: center;
-    background-image: ;
     justify-content: space-around;
     margin: 5px;
-    color: aqua;
     border: 1px solid;
 }
 
@@ -142,10 +124,8 @@
     height: 320px;
     /* background-color: #ccc; */
     text-align: center;
-    background-image: ;
     justify-content: space-around;
     margin: 5px;
-    color: aqua;
     border: 1px solid;
 
 }
@@ -155,10 +135,8 @@
     height: 320px;
     /* background-color: #ccc; */
     text-align: center;
-    background-image: ;
     justify-content: space-around;
     margin: 5px;
-    color: aqua;
     border: 1px solid;
 }
 
